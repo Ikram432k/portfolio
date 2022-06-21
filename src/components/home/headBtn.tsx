@@ -3,7 +3,7 @@ const HeadBtns =()=>{
     return(
     <div className="hbtns">
         <a href="#about" className="btn">More about me</a>
-        <a href="#project" className="btn btn-primary">View my work</a>
+        <a href="#projects" className="btn btn-primary">View my work</a>
     </div>
     )
 }
