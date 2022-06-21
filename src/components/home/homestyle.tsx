@@ -43,7 +43,8 @@ export const Header = styled.header`
     font-size: 0.9rem;
 }
 @media screen and (max-width: 600px){
-.scroll_down{
+.scroll_down,
+.header_socials{
     display:none;
 }
 }
