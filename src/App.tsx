@@ -57,8 +57,12 @@ section{
   margin-top: 8rem;
   height: 100vh;
 }
-section > h2{
+section > h2,
+section > h5 {
   text-align: center;
+  color: var(--color-light);
+}
+section > h2 {
   color: var(--color-primary);
   margin-bottom: 3rem;
 }
