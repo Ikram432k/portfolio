@@ -1,0 +1,58 @@
+export const projectData = [
+    {
+        path: require('../screenshots/shopping-cart.png'),
+        title: 'Shopping Cart',
+        description: "It's a ecommerce website user can view varity of product and its details and add it to their cart",
+        code: 'https://github.com/Ikram432k/shopping-cart',
+        demo: 'https://ikram432k.github.io/shopping-cart/',
+    },
+    {
+        path: require('../screenshots/restaurunt-app.png'),
+        title: 'Restaurant Page',
+        description: 'Here user can check about the details of the restaurant and feedback about restaurant ',
+        code: 'https://github.com/Ikram432k/restaurant-app',
+        demo: 'https://ikram432k.github.io/restaurant-app/',
+    },
+    {
+        path: require('../screenshots/where-is-waldo.png'),
+        title: 'Photo Tagging App',
+        description: 'user can tag the given characters on the large picture and compare their scores in the scoreboard',
+        code: 'https://github.com/Ikram432k/where-is-waldo',
+        demo: 'https://ikram432k.github.io/where-is-waldo/',
+    },
+    {
+        path: require('../screenshots/weather-app.png'),
+        title: 'Weather App',
+        description: 'In Weather app user can enter their desired location and check the weather report',
+        code: 'https://github.com/Ikram432k/weather_app',
+        demo: 'https://ikram432k.github.io/weather_app/',
+    },
+    {
+        path: require('../screenshots/memory-card.png'),
+        title: 'Memory Card',
+        description: 'user gets points by clicking on collection images which shuffles itself after each click',
+        code: 'https://github.com/Ikram432k/memory-card',
+        demo: 'https://ikram432k.github.io/memory-card/',
+    },
+    {
+        path: require('../screenshots/cv-creator.png'),
+        title: 'Cv Creator',
+        description: 'it get information such as personal,educational and work expirence and display it as Cv',
+        code: 'https://github.com/Ikram432k/cv-project',
+        demo: 'https://ikram432k.github.io/cv-project/',
+    },
+    {
+        path: require('../screenshots/todo-list.png'),
+        title: 'Todo List',
+        description: 'user can add their todo or create a seprate project add todo and also filter todo by date',
+        code: 'https://github.com/Ikram432k/todo_list',
+        demo: 'https://ikram432k.github.io/todo_list/',
+    },
+    {
+        path: require('../screenshots/library.png'),
+        title: 'Library',
+        description: 'User can add details of the book that they recently readed',
+        code: 'https://github.com/Ikram432k/PROJECT_LIBRARY',
+        demo: 'https://ikram432k.github.io/PROJECT_LIBRARY/',
+    },
+]
