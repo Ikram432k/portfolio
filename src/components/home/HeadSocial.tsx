@@ -3,10 +3,10 @@ import {IoMdMail} from 'react-icons/io';
 const HeadSocial =()=>{
 return(
     <div className="header_socials">
-        <a href="" target="_blank"><BsLinkedin/></a>
-        <a href="" target="_blank"><BsGithub/></a>
-        <a href="" target="_blank"><IoMdMail/></a>
-        <a href="" target="_blank"><BsTwitter/></a>
+        <a href="https://www.linkedin.com/in/ikram-mohideen-235313229/" target="_blank" rel='noreferrer'><BsLinkedin/></a>
+        <a href="https://github.com/Ikram432k" target="_blank" rel='noreferrer'><BsGithub/></a>
+        <a href="mailto:ikram432k@gmail.com"><IoMdMail/></a>
+        <a href="https://twitter.com/IkramMohideen1" target="_blank" rel='noreferrer'><BsTwitter/></a>
     </div>
 )
 }
