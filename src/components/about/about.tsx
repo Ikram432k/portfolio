@@ -2,7 +2,7 @@ import {Div} from "./aboutStyle";
 const About =()=>{
 return(
     <Div id="about" className="container">
-        <h5>Get Know to</h5>
+        <h5>Get to Know</h5>
         <h2>About me</h2>
         <p>
         Hi, i am ikram . I am a Frontend developer Looking for carrier 
