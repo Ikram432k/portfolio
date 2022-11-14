@@ -12,6 +12,14 @@ export const data = [
       title: 'React Js',
     },
     {
+      path: require('../assets/nodejs.png'),
+      title: 'Node js',
+    },
+    {
+      path: require('../assets/mongodb.png'),
+      title: 'MongoDb',
+    },
+    {
       path: require('../assets/html.webp'),
       title: 'Html',
     },
@@ -35,10 +43,10 @@ export const data = [
       path: require('../assets/firebase.webp'),
       title: 'Firebase',
     },
-    {
-      path: require('../assets/webpack.png'),
-      title: 'Webpack',
-    },
+    // {
+    //   path: require('../assets/webpack.png'),
+    //   title: 'Webpack',
+    // },
     {
       path: require('../assets/npm.png'),
       title: 'NPM',
