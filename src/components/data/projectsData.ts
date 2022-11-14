@@ -1,5 +1,11 @@
 export const projectData = [
     {
+        path: require('../screenshots/blog.png'),
+        title: 'Blog',
+        code: 'https://github.com/Ikram432k/blog-client-repo',
+        demo: 'https://ikram432k.github.io/blog-client-repo/',
+    },
+    {
         path: require('../screenshots/shopping-cart.png'),
         title: 'Shopping Cart',
         description: "It's a ecommerce website user can view varity of product and its details and add it to their cart",
@@ -19,6 +25,12 @@ export const projectData = [
         description: 'user can tag the given characters on the large picture and compare their scores in the scoreboard',
         code: 'https://github.com/Ikram432k/where-is-waldo',
         demo: 'https://ikram432k.github.io/where-is-waldo/',
+    },
+    {
+        path: require('../screenshots/members-only.png'),
+        title: 'Members only',
+        code: 'https://github.com/Ikram432k/Project-Members-Only',
+        demo: 'https://fierce-cove-31113.herokuapp.com/',
     },
     {
         path: require('../screenshots/weather-app.png'),
@@ -41,13 +53,13 @@ export const projectData = [
         code: 'https://github.com/Ikram432k/cv-project',
         demo: 'https://ikram432k.github.io/cv-project/',
     },
-    {
-        path: require('../screenshots/todo-list.png'),
-        title: 'Todo List',
-        description: 'user can add their todo or create a seprate project add todo and also filter todo by date',
-        code: 'https://github.com/Ikram432k/todo_list',
-        demo: 'https://ikram432k.github.io/todo_list/',
-    },
+    // {
+    //     path: require('../screenshots/todo-list.png'),
+    //     title: 'Todo List',
+    //     description: 'user can add their todo or create a seprate project add todo and also filter todo by date',
+    //     code: 'https://github.com/Ikram432k/todo_list',
+    //     demo: 'https://ikram432k.github.io/todo_list/',
+    // },
     {
         path: require('../screenshots/library.png'),
         title: 'Library',
