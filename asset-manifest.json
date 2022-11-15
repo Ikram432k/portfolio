@@ -1,25 +1,28 @@
 {
   "files": {
-    "main.js": "/portfolio/static/js/main.d8bb054a.js",
+    "main.js": "/portfolio/static/js/main.c3d7c28d.js",
     "static/media/where-is-waldo.png": "/portfolio/static/media/where-is-waldo.079defc0a8b33300ac19.png",
     "static/media/restaurunt-app.png": "/portfolio/static/media/restaurunt-app.a8e87b79a5077fda55ea.png",
     "static/media/shopping-cart.png": "/portfolio/static/media/shopping-cart.5be9ce39610b743ef72b.png",
+    "static/media/blog.png": "/portfolio/static/media/blog.272066fe9c1f73bcc1b2.png",
     "static/media/memory-card.png": "/portfolio/static/media/memory-card.7b9e30619df744b8db25.png",
+    "static/media/members-only.png": "/portfolio/static/media/members-only.ec9b3d0f459825cd0db8.png",
     "static/media/weather-app.png": "/portfolio/static/media/weather-app.7de0338ecdcb316bc3f1.png",
     "static/media/cv-creator.png": "/portfolio/static/media/cv-creator.eeb64df26cd724a9db6d.png",
     "static/media/sc.png": "/portfolio/static/media/sc.fedb29267dd012426021.png",
-    "static/media/todo-list.png": "/portfolio/static/media/todo-list.acdcab7702713abed748.png",
     "static/media/library.png": "/portfolio/static/media/library.b682e7e5c12708ca8095.png",
+    "static/media/nodejs.png": "/portfolio/static/media/nodejs.007e99f68b718e476aba.png",
     "static/media/react.webp": "/portfolio/static/media/react.2a0cac33f155e4a27216.webp",
+    "static/media/mongodb.png": "/portfolio/static/media/mongodb.909c449de1a2e13f24cb.png",
     "static/media/git.webp": "/portfolio/static/media/git.59781442cb50b715e4f2.webp",
     "static/media/sass.webp": "/portfolio/static/media/sass.ea171bac3681fdb0e1a2.webp",
     "static/media/css.webp": "/portfolio/static/media/css.12c0f09e969fbfa3191e.webp",
     "static/media/html.webp": "/portfolio/static/media/html.39518b3fda692c928c4e.webp",
     "static/media/firebase.webp": "/portfolio/static/media/firebase.3a9ddb877dde97477f83.webp",
     "index.html": "/portfolio/index.html",
-    "main.d8bb054a.js.map": "/portfolio/static/js/main.d8bb054a.js.map"
+    "main.c3d7c28d.js.map": "/portfolio/static/js/main.c3d7c28d.js.map"
   },
   "entrypoints": [
-    "static/js/main.d8bb054a.js"
+    "static/js/main.c3d7c28d.js"
   ]
 }
